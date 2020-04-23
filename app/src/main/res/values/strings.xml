@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OilEx</string>
+    <string name="kakao_app_key">e4bff952e54580e4d40d619840e420cd</string>
+    <string name="server_url">http://14.4.84.182:3000</string>
+</resources>
